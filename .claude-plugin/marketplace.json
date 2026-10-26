@@ -1,0 +1,14 @@
+{
+  "name": "claude-ds",
+  "description": "Marketplace de herramientas de Claude Code para proyectos de ciencia de datos.",
+  "owner": {
+    "name": "Jiahe Qiu"
+  },
+  "plugins": [
+    {
+      "name": "ds-toolkit",
+      "source": ".",
+      "description": "Agentes, comandos y skill de rigor para proyectos de ciencia de datos y ML."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ds-toolkit",
+  "version": "0.1.0",
+  "description": "Agentes, comandos y skill de rigor para proyectos de ciencia de datos y ML (detección/predicción, MLflow, split temporal, revisión de rigor).",
+  "author": {
+    "name": "Jiahe Qiu"
+  },
+  "keywords": ["data-science", "machine-learning", "mlflow", "mlops", "research"]
+}
