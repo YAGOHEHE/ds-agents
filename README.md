@@ -16,6 +16,8 @@ Este repositorio es a la vez **plugin** (`.claude-plugin/plugin.json`) y **marke
 | `orchestrator` | opus | Coordina tareas y delega en subagentes |
 | `orche_training` | opus | Orquesta el entrenamiento y lo registra en MLflow |
 | `ml-researcher` | opus | Investigación (papers, metodologías); usa ARS si está instalado |
+| `math-researcher` | opus | Valida matemáticamente los enfoques del ml-researcher (Mathematics for Machine Learning) |
+| `stat-researcher` | opus | Valida los enfoques del ml-researcher con enfoque bayesiano (Statistical Rethinking) |
 | `task-list-creator` | opus | Listas de tareas de proyecto |
 | `meeting-task-list` | opus | Tareas desde actas de reunión |
 | `revisor` | opus | Revisión de código y rigor ML (solo lectura) |
